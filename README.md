@@ -2,6 +2,8 @@ ShaderToy to Touchdesigner
 ======
 This patch convert the shader code found on the website [shadertoy.com](https://www.shadertoy.com/) and make it usable in Touchdesigner.
 
+Copy the program shader code from the website in the shaderProgram DAT.
+
 ## Notice
 * Work with 70% of the shadertoy.com available.
 * The texture use on shadertoy.com must be reimport in touchdesigner and assign to the input of the glsl TOP.
