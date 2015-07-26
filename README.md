@@ -13,7 +13,8 @@ This patch convert the shader code found on the website [shadertoy.com](https://
 
 
 ## Contact
-#### 
-email: sebastieng[at]creationexnihilo[dot]com
+#### creation exnihilo
+email: sebastieng@creationexnihilo.com
+
  
 
