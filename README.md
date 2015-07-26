@@ -5,7 +5,7 @@ This patch convert the shader code found on the website [shadertoy.com](https://
 Copy the program shader code from the website in the shaderProgram DAT.
 
 ## Notice
-* Work with 70% of the shadertoy.com available.
+* Work with 60% of the shadertoy.com available.
 * The texture use on shadertoy.com must be reimport in touchdesigner and assign to the input of the glsl TOP.
 * Basic uniform like iResolution, iMouse and iGlobalTime are already assign in the uniform section of the glsl TOP, for some shader use other type of uniform, those should be add by hand.
 
